@@ -25,3 +25,16 @@ html, body {
     margin-right: 1vw;
   }
 }
+
+@media screen and (min-width: 1024px) {
+
+  .header {
+    height: 20vh;
+  }
+
+  .item-1, .item-2, .item-3, .item-4, .item-5, .item-6 {
+    width: 32.3vw;
+    float: left;
+    margin: 0 0.5vw 1vh;
+  }
+}

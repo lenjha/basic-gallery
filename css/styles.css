@@ -15,3 +15,13 @@ html, body {
   height: 29vh;
   margin-bottom: 1vh;
 }
+
+@media screen and (min-width: 750px) {
+
+  .item-1, .item-2, .item-3, .item-4, .item-5, .item-6 {
+    width: 48vw;
+    float: left;
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+}

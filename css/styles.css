@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: #1188ff;
+  height: 9vh;
+  width: 100vw;
+  margin-bottom: 1vh;
+}
+
+.item-1, .item-2, .item-3, .item-4, .item-5, .item-6 {
+  background: #858687;
+  height: 29vh;
+  margin-bottom: 1vh;
+}
